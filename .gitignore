@@ -26,3 +26,4 @@ __pycache__/
 
 # stray local python install (created by the Windows launcher on first run)
 /Python/
+.vercel
